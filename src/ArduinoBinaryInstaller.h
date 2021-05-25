@@ -19,7 +19,7 @@
 #ifndef _ARDUINOOTA_H_
 #define _ARDUINOOTA_H_
 
-#include "WiFiOTA.h"
+
 #ifdef __AVR__
 #if FLASHEND >= 0xFFFF
 #include "InternalStorageAVR.h"
